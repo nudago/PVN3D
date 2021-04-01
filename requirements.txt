@@ -1,6 +1,6 @@
 h5py
 numpy
-torch
+torch==1.1
 torchvision
 folium==0.2.1
 enum34
